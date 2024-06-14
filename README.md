@@ -14,8 +14,8 @@
 ## ✨ Tecnologias
 Este projeto foi desenvolvido com as seguintes tecnologias:
 
- - [Python](https://www.python.org/)
- - [Pygame](https://www.pygame.org/)
+ - [Python](https://www.python.org/)
+ - [Pygame](https://www.pygame.org/)
 
 ## 🎮 Jogo da cobrinha
 
@@ -27,9 +27,9 @@ A música de fundo utilizada neste jogo é "Hidden Agenda" por Kevin MacLeod. Es
 ## 🚀 Como jogar
 
  - Clone o repositório para sua máquina com o comando `git clone https://github.com/vdevs777/snake-game`
- - Certifique-se de ter o Python instalado. Se não tiver, você pode baixá-lo [aqui](https://www.python.org/downloads/)
- - Instale a biblioteca Pygame com o comando `pip install pygame`
- - Execute o jogo com `python game.py`
+ - Certifique-se de ter o Python instalado. Se não tiver, você pode baixá-lo [aqui](https://www.python.org/downloads/)
+ - Instale a biblioteca Pygame com o comando `pip install pygame`
+ - Execute o jogo com `python game.py`
 
 ## 📝 Licença
 
